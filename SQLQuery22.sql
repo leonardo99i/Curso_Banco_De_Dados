@@ -1,0 +1,2 @@
+delete from [TABELA DE VENDEDORES]
+where MATRICULA = '00233';
